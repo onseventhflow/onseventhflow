@@ -4,13 +4,9 @@
   align="right"
 />
 
+<br />
 
-
-<img 
-  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
-  width="110"
-  align="right"
-/>
+## About Me
 
 
 ## About Me
