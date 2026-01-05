@@ -1,3 +1,16 @@
+<img 
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif"
+  width="110"
+  align="left"
+/>
+
+<img 
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+  width="110"
+  align="right"
+/>
+
+
 ## About Me
 
 Aspiring Data Scientist & GenAI Engineer with a strong foundation in Python, Machine Learning, and Large Language Models.  
