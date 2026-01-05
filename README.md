@@ -7,8 +7,6 @@
 <br />
 
 
-## About Me
-
 
 ## About Me
 
@@ -59,3 +57,16 @@ Currently focused on building strong fundamentals in Data Science, Computer Visi
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
 </p>
+
+<br />
+
+<img
+  src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif"
+  width="120"
+  align="center"
+/>
+
+<p align="center">
+  <i>Always training. Always improving.</i>
+</p>
+
