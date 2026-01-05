@@ -58,12 +58,3 @@ Currently focused on building strong fundamentals in Data Science, Computer Visi
   <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
 </p>
 
-<br />
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rajput2107/Anime-Gifs/main/vegeta.gif"
-    width="120"
-  />
-</p>
-
