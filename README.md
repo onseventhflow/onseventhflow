@@ -1,10 +1,11 @@
 <img 
-  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
-  width="80"
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"
+  width="110"
   align="right"
 />
 
 <br />
+
 
 ## About Me
 
