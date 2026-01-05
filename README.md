@@ -5,10 +5,8 @@
 />
 
 <br />
-<br />
 
-
-### About Me
+## About Me
 
 Aspiring Data Scientist & GenAI Engineer with a strong foundation in Python, Machine Learning, and Large Language Models.  
 Currently focused on building strong fundamentals in Data Science, Computer Vision, and Generative AI 
