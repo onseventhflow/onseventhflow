@@ -62,7 +62,7 @@ Currently focused on building strong fundamentals in Data Science, Computer Visi
 
 <p align="center">
   <img
-    src="https://media.tenor.com/4J3HcZ7J7KcAAAAC/vegeta-super-saiyan.gif"
+    src="https://raw.githubusercontent.com/rajput2107/Anime-Gifs/main/vegeta.gif"
     width="120"
   />
 </p>
