@@ -6,8 +6,10 @@ Currently focused on building strong fundamentals in Data Science, Computer Visi
 ## What I’m Working On
 
 - Data Analysis & Visualization  
-- Machine Learning  
+- Machine Learning fundamentals  
+- Deep Learning concepts and neural network architectures  
 - Learning GenAI and LLM-powered applications  
+ 
 
 ## 🛠️ Skills
 
