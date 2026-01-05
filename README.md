@@ -1,3 +1,18 @@
+## About Me
+
+Aspiring Data Scientist & GenAI Engineer with a strong foundation in Python, Machine Learning, and Large Language Models.  
+Currently focused on building strong fundamentals in Data Science, Computer Vision, and Generative AI through hands-on projects and continuous learning.
+
+## What I’m Working On
+
+- Data Analysis & Visualization  
+- Machine Learning  
+- Learning GenAI and LLM-powered applications  
+
+## 🛠️ Skills
+
+### Languages, Libraries, Frameworks & Tools
+
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -19,7 +34,7 @@
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
 </p>
 
 <p align="left">
@@ -30,4 +45,3 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
 </p>
-
