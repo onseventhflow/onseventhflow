@@ -60,13 +60,10 @@ Currently focused on building strong fundamentals in Data Science, Computer Visi
 
 <br />
 
-<img
-  src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif"
-  width="120"
-  align="center"
-/>
-
 <p align="center">
-  <i>Always training. Always improving.</i>
+  <img
+    src="https://media.tenor.com/4J3HcZ7J7KcAAAAC/vegeta-super-saiyan.gif"
+    width="120"
+  />
 </p>
 
